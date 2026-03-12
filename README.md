@@ -3,8 +3,8 @@
 
 **Tecnologie utilizzate**:
 
-**Php**
+- **Php**
 
-**Laravel**
+- **Laravel**
 
-**MySQL**
+- **MySQL**
