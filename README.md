@@ -5,9 +5,9 @@
 
 - **Php** - required version > 7.0 (you can check it opening a command line interpreter and typing php --version.
   
-- **Laravel**
+- **Laravel** - Laravel Installer v4.5.1
 
-- **MySQL**
+- **MySQL** - version 8.0.42
 
 
 **Homepage view**:
